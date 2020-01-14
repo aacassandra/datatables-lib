@@ -1,0 +1,38 @@
+{
+  "name": "@aacassandra/datatables-lib",
+  "version": "1.0.0",
+  "description": "Datatables lib",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aacassandra/datatables-lib.git"
+  },
+  "keywords": [
+    "datatables-lib"
+  ],
+  "author": {
+    "name": "Alauddin Afif Cassandra",
+    "email": "alauddinafifcassandra@programmer.net",
+    "url": "https://aacassandra.github.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aacassandra/datatables-lib/issues"
+  },
+  "homepage": "https://github.com/aacassandra/datatables-lib#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
